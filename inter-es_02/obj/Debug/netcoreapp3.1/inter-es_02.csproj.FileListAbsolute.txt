@@ -1,0 +1,12 @@
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.csprojAssemblyReference.cache
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.csproj.CoreCompileInputs.cache
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.AssemblyInfoInputs.cache
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.AssemblyInfo.cs
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/bin/Debug/netcoreapp3.1/inter-es_02.deps.json
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/bin/Debug/netcoreapp3.1/inter-es_02.runtimeconfig.json
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/bin/Debug/netcoreapp3.1/inter-es_02.runtimeconfig.dev.json
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/bin/Debug/netcoreapp3.1/inter-es_02.dll
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/bin/Debug/netcoreapp3.1/inter-es_02.pdb
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.dll
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.pdb
+/Users/jeanfrancoisitangayenda/Documents/Misc/IMisc/webcrawling/csharpstuff/second_c#/inter_stellar_01/inter-es_02/obj/Debug/netcoreapp3.1/inter-es_02.genruntimeconfig.cache
